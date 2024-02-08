@@ -1,0 +1,147 @@
+[
+        {
+        "id":"0",
+        "name":"UltraBoost Shoes",
+        "category":"Men's Running",
+        "imageURL":[
+            "images/shoes-1.png",
+            "images/shoes-2.png"
+        ],
+        "oldprice":"1899.00",
+        "sizes":[
+            {"size":"6.0","isSelected":false},
+            {"size":"6.5","isSelected":false},
+            {"size":"7.0","isSelected":false},
+            {"size":"7.5","isSelected":false},
+            {"size":"8.0","isSelected":false},
+            {"size":"8.5","isSelected":false},
+            {"size":"9.0","isSelected":false}
+
+
+        ],
+        "price":"79.00",
+        "description":"Put some pep in your steps with Adidas",
+        "title":"Adidas Running Shoes with cooling ventilations"
+        },
+        {
+            "id":"1",
+            "name":"UltraBoost Shoes",
+            "category":"Men's Running",
+            "imageURL":[
+                "images/shoes-2.png",
+                "images/shoes-3.png"
+            ],
+            "oldprice":"1899.00",
+            "sizes":[
+                {"size":"6.0","isSelected":false},
+                {"size":"6.5","isSelected":false},
+                {"size":"7.0","isSelected":false},
+                {"size":"7.5","isSelected":false},
+                {"size":"8.0","isSelected":false},
+                {"size":"8.5","isSelected":false},
+                {"size":"9.0","isSelected":false}
+    
+    
+            ],
+            "price":"89.00",
+            "description":"Put some pep in your steps with Adidas",
+            "title":"Adidas Running Shoes with cooling ventilations"
+            },
+            {
+                "id":"2",
+                "name":"UltraBoost Shoes",
+                "category":"Men's Running",
+                "imageURL":[
+                    "images/shoes-3.png",
+                    "images/shoes-4.png"
+                ],
+                "oldprice":"1899.00",
+                "sizes":[
+                    {"size":"6.0","isSelected":false},
+                    {"size":"6.5","isSelected":false},
+                    {"size":"7.0","isSelected":false},
+                    {"size":"7.5","isSelected":false},
+                    {"size":"8.0","isSelected":false},
+                    {"size":"8.5","isSelected":false},
+                    {"size":"9.0","isSelected":false}
+        
+        
+                ],
+                "price":"109.00",
+                "description":"Put some pep in your steps with Adidas",
+                "title":"Adidas Running Shoes with cooling ventilations"
+                },
+                {
+                    "id":"3",
+                    "name":"UltraBoost Shoes",
+                    "category":"Men's Running",
+                    "imageURL":[
+                        "images/shoes-4.png",
+                        "images/shoes-5.png"
+                    ],
+                    "oldprice":"1899.00",
+                    "sizes":[
+                        {"size":"6.0","isSelected":false},
+                        {"size":"6.5","isSelected":false},
+                        {"size":"7.0","isSelected":false},
+                        {"size":"7.5","isSelected":false},
+                        {"size":"8.0","isSelected":false},
+                        {"size":"8.5","isSelected":false},
+                        {"size":"9.0","isSelected":false}
+            
+            
+                    ],
+                    "price":"109.00",
+                    "description":"Put some pep in your steps with Adidas",
+                    "title":"Adidas Running Shoes with cooling ventilations"
+                    },
+                    {
+                        "id":"4",
+                        "name":"UltraBoost Shoes",
+                        "category":"Men's Running",
+                        "imageURL":[
+                            "images/shoes-5.png",
+                            "images/shoes-6.png"
+                        ],
+                        "oldprice":"1899.00",
+                        "sizes":[
+                            {"size":"6.0","isSelected":false},
+                            {"size":"6.5","isSelected":false},
+                            {"size":"7.0","isSelected":false},
+                            {"size":"7.5","isSelected":false},
+                            {"size":"8.0","isSelected":false},
+                            {"size":"8.5","isSelected":false},
+                            {"size":"9.0","isSelected":false}
+                
+                
+                        ],
+                        "price":"109.00",
+                        "description":"Put some pep in your steps with Adidas",
+                        "title":"Adidas Running Shoes with cooling ventilations"
+                        },
+                        {
+                            "id":"5",
+                            "name":"UltraBoost Shoes",
+                            "category":"Men's Running",
+                            "imageURL":[
+                                "images/shoes-6.png",
+                                "images/shoes-5.png"
+                            ],
+                            "oldprice":"1899.00",
+                            "sizes":[
+                                {"size":"6.0","isSelected":false},
+                                {"size":"6.5","isSelected":false},
+                                {"size":"7.0","isSelected":false},
+                                {"size":"7.5","isSelected":false},
+                                {"size":"8.0","isSelected":false},
+                                {"size":"8.5","isSelected":false},
+                                {"size":"9.0","isSelected":false}
+                    
+                    
+                            ],
+                            "price":"109.00",
+                            "description":"Put some pep in your steps with Adidas",
+                            "title":"Adidas Running Shoes with cooling ventilations"
+                            }
+       
+]

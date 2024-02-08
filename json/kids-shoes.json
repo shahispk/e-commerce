@@ -1,0 +1,148 @@
+[
+    {
+        "id":"0",
+        "name":"Heeled Sandles",
+        "category":"Women's party wear",
+        "imageURL":[
+            "images/women1.png",
+            "images/shoes-2.png"
+        ],
+        "oldprice":"1899.00",
+        "sizes":[
+            {"size":"6.0","isSelected":false},
+            {"size":"6.5","isSelected":false},
+            {"size":"7.0","isSelected":false},
+            {"size":"7.5","isSelected":false},
+            {"size":"8.0","isSelected":false},
+            {"size":"8.5","isSelected":false},
+            {"size":"9.0","isSelected":false}
+
+
+        ],
+        "price":"79.00",
+        "description":"Put some pep in your steps with Acidass",
+        "title":"Acidass Running Shoes with cooling ventilations"
+        },
+        {
+            "id":"1",
+            "name":"Heeled Sandles",
+            "category":"Women's party wear",
+            "imageURL":[
+                "images/women2.png",
+                "images/shoes-2.png"
+            ],
+            "oldprice":"1899.00",
+            "sizes":[
+                {"size":"6.0","isSelected":false},
+                {"size":"6.5","isSelected":false},
+                {"size":"7.0","isSelected":false},
+                {"size":"7.5","isSelected":false},
+                {"size":"8.0","isSelected":false},
+                {"size":"8.5","isSelected":false},
+                {"size":"9.0","isSelected":false}
+    
+    
+            ],
+            "price":"79.00",
+            "description":"Put some pep in your steps with Acidass",
+            "title":"Acidass Running Shoes with cooling ventilations"
+            },
+            {
+                "id":"2",
+                "name":"Heeled Sandles",
+                "category":"Women's party wear",
+                "imageURL":[
+                    "images/women3.png",
+                    "images/shoes-2.png"
+                ],
+                "oldprice":"1899.00",
+                "sizes":[
+                    {"size":"6.0","isSelected":false},
+                    {"size":"6.5","isSelected":false},
+                    {"size":"7.0","isSelected":false},
+                    {"size":"7.5","isSelected":false},
+                    {"size":"8.0","isSelected":false},
+                    {"size":"8.5","isSelected":false},
+                    {"size":"9.0","isSelected":false}
+        
+        
+                ],
+                "price":"79.00",
+                "description":"Put some pep in your steps with Acidass",
+                "title":"Acidass Running Shoes with cooling ventilations"
+                },
+                {
+                    "id":"3",
+                    "name":"Heeled Sandles",
+                    "category":"Women's party wear",
+                    "imageURL":[
+                        "images/women4.png",
+                        "images/shoes-2.png"
+                    ],
+                    "oldprice":"1899.00",
+                    "sizes":[
+                        {"size":"6.0","isSelected":false},
+                        {"size":"6.5","isSelected":false},
+                        {"size":"7.0","isSelected":false},
+                        {"size":"7.5","isSelected":false},
+                        {"size":"8.0","isSelected":false},
+                        {"size":"8.5","isSelected":false},
+                        {"size":"9.0","isSelected":false}
+            
+            
+                    ],
+                    "price":"79.00",
+                    "description":"Put some pep in your steps with Acidass",
+                    "title":"Acidass Running Shoes with cooling ventilations"
+                    },
+                    {
+                        "id":"4",
+                        "name":"Heeled Sandles",
+                        "category":"Women's party wear",
+                        "imageURL":[
+                            "images/women5.png",
+                            "images/shoes-2.png"
+                        ],
+                        "oldprice":"1899.00",
+                        "sizes":[
+                            {"size":"6.0","isSelected":false},
+                            {"size":"6.5","isSelected":false},
+                            {"size":"7.0","isSelected":false},
+                            {"size":"7.5","isSelected":false},
+                            {"size":"8.0","isSelected":false},
+                            {"size":"8.5","isSelected":false},
+                            {"size":"9.0","isSelected":false}
+                
+                
+                        ],
+                        "price":"79.00",
+                        "description":"Put some pep in your steps with Acidass",
+                        "title":"Acidass Running Shoes with cooling ventilations"
+                        },
+                        {
+                            "id":"5",
+                            "name":"Heeled Sandles",
+                            "category":"Women's party wear",
+                            "imageURL":[
+                                "images/women6.jpg  ",
+                                "images/shoes-2.png"
+                            ],
+                            "oldprice":"1899.00",
+                            "sizes":[
+                                {"size":"6.0","isSelected":false},
+                                {"size":"6.5","isSelected":false},
+                                {"size":"7.0","isSelected":false},
+                                {"size":"7.5","isSelected":false},
+                                {"size":"8.0","isSelected":false},
+                                {"size":"8.5","isSelected":false},
+                                {"size":"9.0","isSelected":false}
+                    
+                    
+                            ],
+                            "price":"79.00",
+                            "description":"Put some pep in your steps with Acidass",
+                            "title":"Acidass Running Shoes with cooling ventilations"
+                            }
+     
+           
+    ]
